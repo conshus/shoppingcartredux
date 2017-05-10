@@ -1,0 +1,7 @@
+{
+  "items":[
+    {"name":"Save my trees", "price":29, "image":"../assets/blue-front.png"},
+    {"name":"Nature Lover", "price":19, "image":"../assets/pink-front.png"},
+    {"name":"Forrest Walk", "price":39, "image":"../assets/yellow-front.png"}
+  ]
+}
